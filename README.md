@@ -10,6 +10,6 @@ Currently I am working on a Bug the Stripe API is not working for Indian Address
 
 And you can use the test mode Credit Card Details.
 
-Card Number :- 4242 4242 4242 4242
-Expiry Date :- Any Date in the future
-CVC :- Any three digit number(For eg :- 123)
+- Card Number :- 4242 4242 4242 4242
+- Expiry Date :- Any Date in the future
+- CVC :- Any three digit number(For eg :- 123)
